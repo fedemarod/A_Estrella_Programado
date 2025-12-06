@@ -20,7 +20,7 @@ Este proyecto implementa el **algoritmo A\*** para la búsqueda de rutas óptima
 ### 1. Descargar el proyecto
 
 ```bash
-https://github.com/ux25mt006-dotcom/A_Estrella_Programado
+https://github.com/fedemarod/A_Estrella_Programado
 cd a_start_clase
 ```
 
