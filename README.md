@@ -77,8 +77,6 @@ a_start_clase/
 ├── a_star.py           # Implementación del algoritmo A* (a completar)
 ├── structures.py       # Estructuras de datos auxiliares
 ├── requirements.txt    # Dependencias del proyecto
-├── .gitignore         # Archivos a ignorar en git
-├── LICENSE            # Licencia MIT del proyecto
 └── README.md          # Este archivo
 ```
 
